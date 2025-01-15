@@ -149,3 +149,80 @@ int main(){
 	
 	return 0;
 }
+
+/*
+
+
+1)Add vertex 
+2)Create edge 
+3)Traversal 
+0)Exit 
+Choose option :: 1
+
+Enter data to be added to vertex : 2
+
+1)Add vertex 
+2)Create edge 
+3)Traversal 
+0)Exit 
+Choose option :: 1
+
+Enter data to be added to vertex : 3
+
+1)Add vertex 
+2)Create edge 
+3)Traversal 
+0)Exit 
+Choose option :: 1
+
+Enter data to be added to vertex : 4
+
+1)Add vertex 
+2)Create edge 
+3)Traversal 
+0)Exit 
+Choose option :: 2
+
+.................................
+Edge postion of '2' is 0
+Edge postion of '3' is 1
+Edge postion of '4' is 2
+.................................
+
+Enter edge starting : 0
+
+Enter edge ending : 1
+
+1)Add vertex 
+2)Create edge 
+3)Traversal 
+0)Exit 
+Choose option :: 2
+
+.................................
+Edge postion of '2' is 0
+Edge postion of '3' is 1
+Edge postion of '4' is 2
+.................................
+
+Enter edge starting : 1
+
+Enter edge ending : 2
+
+1)Add vertex 
+2)Create edge 
+3)Traversal 
+0)Exit 
+Choose option :: 3
+
+|||||||||||||||||||||||||||||||
+234
+|||||||||||||||||||||||||||||||
+
+1)Add vertex 
+2)Create edge 
+3)Traversal 
+0)Exit 
+Choose option :: 
+
+/*
